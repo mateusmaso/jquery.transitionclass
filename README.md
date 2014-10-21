@@ -1,2 +1,2 @@
-jquery.transition
-=================
+jquery.transitionclass
+======================
