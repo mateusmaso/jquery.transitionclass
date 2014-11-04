@@ -26,7 +26,7 @@
     "jquery": "~2.1.0"
   },
   "scripts": {
-    "test": "grunt mocha"
+    "test": "grunt mochaTest"
   },
   "main": "dist/jquery.transitionclass.js"
 }
