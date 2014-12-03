@@ -1,15 +1,15 @@
 jquery.transitionclass [![Build Status](https://travis-ci.org/mateusmaso/jquery.transitionclass.svg?branch=master)](https://travis-ci.org/mateusmaso/jquery.transitionclass)
 ======================
 
-jQuery plugin for adding classes in a transition delay.
+jQuery plugin for adding classes after transition delay.
 
 ## Features
 
-* Transition classes for animations.
+* Animation with class transitions.
 
 ## Dependencies
 
-* jquery.js (>= 2.1)
+* jquery.js (>= 2.1.0)
 
 ## Examples
 

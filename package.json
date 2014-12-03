@@ -1,7 +1,7 @@
 {
   "name": "jquery.transitionclass",
   "description": "jQuery plugin for adding classes in a transition delay",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "mateusmaso",
   "keywords": ["jquery", "javascript", "transition", "class"],
   "devDependencies": {
